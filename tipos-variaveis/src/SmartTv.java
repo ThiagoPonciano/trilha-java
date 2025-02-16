@@ -35,5 +35,5 @@ public class SmartTv {
         canal--;
         System.out.println("Canal reduzido para: " + canal);
     }
-    
+
 }
